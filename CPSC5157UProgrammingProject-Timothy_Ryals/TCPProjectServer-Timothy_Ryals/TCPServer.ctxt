@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=f1\ f2
+comment0.target=boolean\ CompareFiles(java.io.File,\ java.io.File)
+comment1.params=argv
+comment1.target=void\ main(java.lang.String[])
+numComments=2
